@@ -1,1 +1,1 @@
-# MobileAoutomationAPIdemos
+# MobileAutomation-APIdemos-app
